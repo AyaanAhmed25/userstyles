@@ -105,6 +105,9 @@
     .cm-placeholder {
       color: @subtext0;
     }
+    pre{
+      font-family: 'JetBrainsMono Nerd Font' !important;
+    }
 
     accent-color: @accent-color;
     color: @text;
