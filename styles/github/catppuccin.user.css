@@ -105,6 +105,7 @@
     .cm-placeholder {
       color: @subtext0;
     }
+    .react-code-text,
     pre{
       font-family: 'JetBrainsMono Nerd Font' !important;
     }
