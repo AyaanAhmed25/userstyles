@@ -76,6 +76,10 @@
       }
     }
 
+    .highlight[data-v-fc9a395c] .match {
+      background-color: fade(@accent-color, 30%);
+    }
+
     --color-fill: @base;
     --color-fill-secondary: @surface0;
     --color-fill-tertiary: @crust;
